@@ -9,7 +9,10 @@ basic flashcards program for array methods
   type 'ruby <filename>'
 
 #the program:
- will ask for amount of cards you want to try
- then continue to ask questions until you complete the amount of cards you've specified
+ will ask for amount of cards you want to try.
+ then continue to ask questions until you complete the amount of cards you've specified.
+ 
+ hints: if one is confusing or to hard, type 'idk' to continue on. It will return the correct answer as well.
+ 
 
 
